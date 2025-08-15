@@ -97,6 +97,16 @@ nav .Right_Nav_Section a:hover {
     text-decoration: underline;
 }
 
+#About_Me .Text #AI4ALL a {
+    color: inherit;
+    text-decoration: none;
+}
+
+#About_Me .Text #AI4ALL a:hover {
+    color: #3170ed;
+    text-decoration: underline;
+}
+
 
 #About_Me .Text h2 {
     font-size: 40px;
